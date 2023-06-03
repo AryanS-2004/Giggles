@@ -5,6 +5,12 @@ Welcome to the repository for our chat app! This project aims to provide a seaml
 Screenshots of Chat App: https://drive.google.com/drive/folders/1IviLDuU7jf0eDkrEc-oOO3CDTGkbnHi-?usp=share_link
 
 ![Chat App Screeenshot](https://github.com/AryanS-2004/Giggles/blob/master/Images/Screenshot%202023-06-03%20at%206.36.46%20PM.png)
+![Chat App Screeenshot](https://github.com/AryanS-2004/Giggles/blob/master/Images/Screenshot%202023-06-03%20at%206.36.46%20PM.png)
+![Chat App Screeenshot](https://github.com/AryanS-2004/Giggles/blob/master/Images/Screenshot%202023-06-03%20at%206.36.46%20PM.png)
+![Chat App Screeenshot](https://github.com/AryanS-2004/Giggles/blob/master/Images/Screenshot%202023-06-03%20at%206.36.46%20PM.png)
+![Chat App Screeenshot](https://github.com/AryanS-2004/Giggles/blob/master/Images/Screenshot%202023-06-03%20at%206.36.46%20PM.png)
+![Chat App Screeenshot](https://github.com/AryanS-2004/Giggles/blob/master/Images/Screenshot%202023-06-03%20at%206.36.46%20PM.png)
+![Chat App Screeenshot](https://github.com/AryanS-2004/Giggles/blob/master/Images/Screenshot%202023-06-03%20at%206.36.46%20PM.png)
 
 
 
