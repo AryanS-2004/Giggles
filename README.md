@@ -4,6 +4,9 @@ Welcome to the repository for our chat app! This project aims to provide a seaml
 
 Screenshots of Chat App: https://drive.google.com/drive/folders/1IviLDuU7jf0eDkrEc-oOO3CDTGkbnHi-?usp=share_link
 
+![Chat App Screeenshot](https://drive.google.com/drive/u/2/folders/1IviLDuU7jf0eDkrEc-oOO3CDTGkbnHi-)
+
+
 # Setup Instructions
 
 To set up the project locally, please follow the steps below:
