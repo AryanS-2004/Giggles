@@ -7,6 +7,7 @@ Screenshots of Chat App: https://drive.google.com/drive/folders/1IviLDuU7jf0eDkr
 ![Chat App Screeenshot](https://github.com/AryanS-2004/Giggles/blob/master/Images/Screenshot%202023-06-03%20at%206.36.46%20PM.png)
 
 
+
 # Setup Instructions
 
 To set up the project locally, please follow the steps below:
