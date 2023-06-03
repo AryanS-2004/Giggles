@@ -3,7 +3,7 @@
 Welcome to the repository for our chat app! This project aims to provide a seamless and interactive messaging experience for users. Whether you're looking to build a chat application from scratch or enhance an existing one, this repository serves as a valuable resource. 
 
 Screenshots of Chat App: https://drive.google.com/drive/folders/1IviLDuU7jf0eDkrEc-oOO3CDTGkbnHi-?usp=share_link  
-For any suggestion or query contact : aryan.coding01@gmail.com
+Any suggestions may be sent to the following email address: aryan.coding01@gmail.com
 
 
 # Setup Instructions
